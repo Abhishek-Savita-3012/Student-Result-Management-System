@@ -1,0 +1,20 @@
+=================================
+        STUDENT REPORT CARD       
+=================================
+
+Roll No    : 101
+Name       : Abhishek
+Class      : B.Tech CSE
+Section    : A
+
+Subject 1  : 88
+Subject 2  : 92
+Subject 3  : 85
+Subject 4  : 90
+Subject 5  : 87
+
+Total      : 442
+Percentage : 88.40
+Grade      : A
+
+=================================
